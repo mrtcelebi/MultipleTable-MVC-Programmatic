@@ -1,0 +1,6 @@
+framework module Pods_MultipleTable {
+  umbrella header "Pods-MultipleTable-umbrella.h"
+
+  export *
+  module * { export * }
+}
